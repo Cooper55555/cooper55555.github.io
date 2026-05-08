@@ -137,8 +137,6 @@ a {
   color: var(--muted);
 }
 
-/* SECTIONS */
-
 .link-sections {
   margin-top: 36px;
 
@@ -165,8 +163,6 @@ a {
 
   opacity: 0.9;
 }
-
-/* LINK CARDS */
 
 .link-card {
   display: grid;
@@ -208,7 +204,6 @@ a {
   color: var(--muted);
 }
 
-/* FOOTER */
 
 .footer-row {
   margin-top: 34px;
@@ -226,7 +221,6 @@ a {
   font-size: 0.95rem;
 }
 
-/* SKILLS */
 
 .skill-card {
   display: grid;
